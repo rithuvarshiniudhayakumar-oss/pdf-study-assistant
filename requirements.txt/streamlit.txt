@@ -1,4 +1,1 @@
-streamlit
-pypdf2
-google-genai
-python-dotenv
+
